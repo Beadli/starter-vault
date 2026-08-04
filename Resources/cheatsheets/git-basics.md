@@ -1,5 +1,3 @@
-# Git basics
-
 The five commands that carry most of the daily work, from Module 1.
 
 ```bash

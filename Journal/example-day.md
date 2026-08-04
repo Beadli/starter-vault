@@ -1,5 +1,3 @@
-# Example day
-
 This is what a filled-in daily note looks like. Delete this file once
 you've written your own first entry.
 

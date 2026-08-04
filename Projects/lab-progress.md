@@ -1,5 +1,3 @@
-# Lab progress
-
 One page to see where you are. Check modules off as you pass their
 checkpoints, and note the date. The dates matter more than you'd think;
 watching the list grow is what carries you through the slow weeks.

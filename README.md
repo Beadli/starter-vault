@@ -9,6 +9,14 @@ pick this folder. Module 1 of the course walks you through the rest,
 including turning on the two plugins that make the daily-note template
 work.
 
+Once it is open, start at **`Home`**. It is the landing page for the
+vault: where everything lives, what the four daily headings are for, and
+links to the progress tracker and the Git cheatsheet.
+
+`Home` is written for reading inside Obsidian, where callouts and
+`[[links]]` render properly. On GitHub it looks like plain text, which is
+why this README exists.
+
 ## What goes where
 
 - `Journal/` gets one note per working day, created from the template.
